@@ -7,7 +7,7 @@ A hands-on EDA project exploring house pricing trends in Pakistan using a Kaggle
 ## 📁 Project Structure
 
 ```
-├── eda_house_pricing.ipynb   # Main Jupyter Notebook
+├── House pricing.ipynb   # Main Jupyter Notebook
 ├── dataset/
 │   └── pk_house_pricing.csv  # Kaggle dataset
 └── README.md
