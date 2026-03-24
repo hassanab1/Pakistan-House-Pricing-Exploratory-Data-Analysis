@@ -90,8 +90,8 @@ Created new metrics to analyze market value and property characteristics, includ
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@hassanab1]([https://github.com/your-username](https://github.com/hassanab1/)
+**Hassan Abdurehman**
+- GitHub: [@hassanab1](https://github.com/hassanab1)
 
 ---
 
